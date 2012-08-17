@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>FluentValidation.MVC3</id>
+    <id>FluentValidation-Signed.MVC3</id>
     <version></version>
-    <authors>Jeremy Skinner</authors>
-    <licenseUrl>http://fluentvalidation.codeplex.com/license</licenseUrl>
-    <projectUrl>http://fluentvalidation.codeplex.com</projectUrl>
-    <iconUrl>http://download.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=FluentValidation&amp;DownloadId=166226</iconUrl>
+    <authors>Ramon Smits</authors>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/ramonsmits/FluentValidation</projectUrl>
+    <iconUrl>https://github.com/ramonsmits/FluentValidation/blob/master/nuget.png?raw=true</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>ASP.NET MVC 3 integration for FluentValidation</description>
     <summary>ASP.NET MVC 3 integration for FluentValidation</summary>
     <language>en-US</language>
     <dependencies>
-      <dependency id="FluentValidation" version="" />
+      <dependency id="FluentValidation-Signed" version="" />
     </dependencies>
   </metadata>
 </package>
