@@ -22,12 +22,12 @@ using System.Runtime.InteropServices;
 using System.Security;
 
 [assembly : AssemblyTitle("FluentValidation")]
-[assembly : AssemblyDescription("FluentValidation")]
-[assembly : AssemblyProduct("FluentValidation")]
+[assembly : AssemblyDescription("ramonsmits/FluentValidation")]
+[assembly : AssemblyProduct("https://github.com/ramonsmits/FluentValidation")]
 [assembly : AssemblyCopyright("Copyright (c) Jeremy Skinner 2008-2012")]
 [assembly : ComVisible(false)]
-[assembly : AssemblyVersion("3.4.0.0")]
-[assembly : AssemblyFileVersion("3.4.0.0")]
+[assembly : AssemblyVersion("3.4.1.0")]
+[assembly : AssemblyFileVersion("3.4.1.0")]
 [assembly: CLSCompliant(true)]
 #if !SILVERLIGHT
 [assembly: AllowPartiallyTrustedCallers]
